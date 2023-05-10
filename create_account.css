@@ -1,0 +1,68 @@
+body {
+    background-color: black;
+}
+
+.contact-box {
+    font-family: 'Times New Roman', sans-serif;
+    font-weight: 600;
+    width: 500px;
+    background-color: #14171A;
+    top: 47.5%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    position: absolute;
+    border-radius: 15px;
+}
+
+.form-box {
+    font-family: 'Times New Roman', sans-serif;
+    font-size: 1em;
+    font-weight: bold;
+    color: #edf0f1;
+    margin: 35px;
+}
+
+.input-field {
+    width: 400px;
+    height: 40px;
+    margin-top: 20px;
+    padding-left: 10px;
+    padding-right: 10px;
+    border: 1px solid #777;
+    border-radius: 14px;
+    outline: none;
+}
+
+.button-styling-register {
+    font-family: 'Times New Roman', sans-serif;
+    font-size: 1em;
+    font-weight: bold;
+    color: #edf0f1;
+    background-color: #1DA1F2; 
+    padding: 10px 15px;
+    border: none;
+    border-radius: 50px;
+    cursor: pointer;
+    transition: all 0.3s ease 0s;
+    margin-top: 18px;
+    padding: 10px;
+}
+
+.button-styling-login{
+    font-family: 'Times New Roman', sans-serif;
+    font-size: 1em;
+    font-weight: bold;
+    color: #edf0f1;
+    background-color: #1DA1F2; 
+    padding: 10px 15px;
+    border: none;
+    border-radius: 50px;
+    cursor: pointer;
+    transition: all 0.3s ease 0s;
+    margin-top: 18px;
+    padding: 10px;
+}
+
+.contact-box {
+    opacity: 1;
+}
